@@ -1,1 +1,1 @@
-# ThingyMajig
+# ThingyM
